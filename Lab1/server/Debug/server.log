@@ -1,0 +1,12 @@
+﻿  server.cpp
+D:\SocketProgramming\Lab1\server\server.cpp(288,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\SocketProgramming\Lab1\server\server.cpp(311,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\SocketProgramming\Lab1\server\server.cpp(316,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\SocketProgramming\Lab1\server\server.cpp(347,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\SocketProgramming\Lab1\server\server.cpp(270,9): warning C4102: “std”: 未引用的标签
+D:\SocketProgramming\Lab1\server\server.cpp(465,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 参见“inet_ntoa”的声明
+  server.vcxproj -> D:\SocketProgramming\Lab1\server\Debug\server.exe
